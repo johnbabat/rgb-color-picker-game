@@ -1,0 +1,22 @@
+{
+  "name": "rgb-color-picker-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbabat/rgb-color-picker-game.git"
+  },
+  "author": "John Babatola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbabat/rgb-color-picker-game/issues"
+  },
+  "homepage": "https://github.com/johnbabat/rgb-color-picker-game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
