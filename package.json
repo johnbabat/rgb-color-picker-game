@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/johnbabat/rgb-color-picker-game#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
